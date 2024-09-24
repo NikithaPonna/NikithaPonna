@@ -4,24 +4,24 @@ I am a Software Developer with a Master's in Computer Science from the Universit
 
 🔧 Skills & Technologies:
 
-Programming Languages: Python, Java, C, JavaScript, SQL
+- Programming Languages: Python, Java, C, JavaScript, SQL
 
-Web Technologies: HTML, CSS, React.js, Node.js, Spring Framework
+- Web Technologies: HTML, CSS, React.js, Node.js, Spring Framework
 
-Databases: MySQL, MongoDB, Database Management & Security
+- Databases: MySQL, MongoDB, Database Management & Security
 
-Tools & Platforms: Docker, Kubernetes, Jenkins, Google Cloud Platform, Git
+- Tools & Platforms: Docker, Kubernetes, Jenkins, Google Cloud Platform, Git
 
-Other Technologies: IoT (Raspberry Pi), Full-Stack Development, MERN Stack
+- Other Technologies: IoT (Raspberry Pi), Full-Stack Development, MERN Stack
 
 💼 Professional Experience:
 
-Software Developer at Tata Consultancy Services (Nov 2021 - Dec 2022)
+- Software Developer at Tata Consultancy Services (Nov 2021 - Dec 2022)
 
-Led full-stack development efforts for Genuine Parts Company, delivering high-quality web solutions using HTML, CSS, JavaScript, Python, and SQL.
+- Led full-stack development efforts for Genuine Parts Company, delivering high-quality web solutions using HTML, CSS, JavaScript, Python, and SQL.
 
-Focused on database performance optimization, ensuring data integrity and advanced security measures.
+- Focused on database performance optimization, ensuring data integrity and advanced security measures.
 
-Collaborated with cross-functional teams to ensure timely project delivery and provided technical support to ensure smooth operations.
+- Collaborated with cross-functional teams to ensure timely project delivery and provided technical support to ensure smooth operations.
 
 💻 Projects:
