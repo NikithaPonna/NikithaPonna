@@ -1,5 +1,4 @@
-**Hi there, I'm Sai Nikitha Ponnathota 👋
-**
+**Hi there, I'm Sai Nikitha Ponnathota 👋**
 I am a Software Developer with a Master's in Computer Science from the University of North Texas and a Bachelor's in Electronics and Communication Engineering. I am passionate about building innovative solutions, enhancing user experiences, and leveraging my expertise in full-stack development to create efficient and scalable applications.
 
 🔧 Skills & Technologies:
