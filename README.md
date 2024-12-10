@@ -16,7 +16,7 @@ I am a Software Developer with a Master's in Computer Science from the Universit
 
 💼 Professional Experience:
 
-- Software Developer at Tata Consultancy Services (Nov 2021 - Dec 2022)
+- Software Developer at Tata Consultancy Services (Aug 2021 - Dec 2022)
 
 - Led full-stack development efforts for Genuine Parts Company, delivering high-quality web solutions using HTML, CSS, JavaScript, Python, and SQL.
 
